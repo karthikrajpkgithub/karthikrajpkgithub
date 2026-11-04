@@ -11,7 +11,7 @@ Based in Hyderabad, India. Working across India and the US.
 ## What I'm working on
 
 - **Co-founder, Jive Jar** — Product strategy and delivery for software and marketing systems, including an offline-capable POS for US restaurants in development.
-- **Head, India, SavvyTank** — Product strategy and business operations.
+- **Head, India, SavvyTank** — India strategy, venture research and business operations.
 - **Independent consulting** — Product and operations at ScreenFire; operations and AI at Hashtag LLC.
 
 Previously, I founded **Greeds**, serving 20+ brands across India and the US before its acquisition in 2025.
@@ -22,9 +22,9 @@ Previously, I founded **Greeds**, serving 20+ brands across India and the US bef
 
 How could established practices turn a recurring-care idea into a defined program with clear operating economics?
 
-This project explores that question through competitive research, positioning, and a React website prototype. It brings together a filterable company landscape, a healthcare design gallery, template research, and a browser-based readiness brief.
+This project explores that question through competitive research, positioning, and a React website prototype. It brings together a filterable company landscape, a healthcare design gallery, and template research.
 
-**Explore:** [Repository and setup](https://github.com/karthikrajpkgithub/savvy-clinical) · [Research and methodology](https://github.com/karthikrajpkgithub/savvy-clinical/tree/main/research)
+**Explore:** [Live prototype](https://karthikrajpkgithub.github.io/savvy-clinical/) · [Repository and setup](https://github.com/karthikrajpkgithub/savvy-clinical) · [Research and methodology](https://github.com/karthikrajpkgithub/savvy-clinical/tree/main/research)
 
 **Status:** Concept and prototype. Pricing and economics are illustrative; customer-story slots are placeholders. This work does not demonstrate delivered clinical outcomes or realized customer revenue.
 
@@ -34,7 +34,7 @@ What would a managed retail-deduction recovery service need to explain before a 
 
 This public staging website explores the proposed service, customer journey, evidence and approval workflow, and launch-readiness requirements for US businesses. The repository contains the generated Next.js static build.
 
-**Explore:** [Repository and project context](https://github.com/karthikrajpkgithub/recovery-os-staging)
+**Explore:** [View staging](https://karthikrajpkgithub.github.io/recovery-os-staging/) · [Repository and project context](https://github.com/karthikrajpkgithub/recovery-os-staging)
 
 **Status:** Prelaunch visual staging with no live intake. Service descriptions, pilot offers, and validation targets are proposals, not completed engagements or proven recovery results.
 
