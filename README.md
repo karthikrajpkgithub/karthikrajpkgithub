@@ -1,30 +1,45 @@
 # Karthik Raj P K
 
-Product strategy, business operations, and venture building.
+**Product strategy · Business operations · Venture building**
 
-I work across product direction, delivery, growth, and AI-enabled business operations. Based in Hyderabad, India.
+I turn business ideas into product plans, working prototypes, and the operations needed to deliver them. My work connects product direction, software delivery, growth, and practical uses of AI.
 
-## Current work
+Based in Hyderabad, India. Working across India and the US.
 
-- **SavvyTank** — Head, India
-- **Jive Jar** — Co-founder; product strategy and delivery for software and marketing systems
-- **ScreenFire** — Independent product and operations consulting
-- **Hashtag LLC** — Operations and AI consulting
+[LinkedIn](https://www.linkedin.com/in/karthikrajpk/) · [Jive Jar](https://jivejar.com)
 
-Previously founded **Greeds**, serving 20+ brands across India and the US before its acquisition in 2025.
+## What I'm working on
+
+- **Co-founder, Jive Jar** — Product strategy and delivery for software and marketing systems, including an offline-capable POS for US restaurants in development.
+- **Head, India, SavvyTank** — Product strategy and business operations.
+- **Independent consulting** — Product and operations at ScreenFire; operations and AI at Hashtag LLC.
+
+Previously, I founded **Greeds**, serving 20+ brands across India and the US before its acquisition in 2025.
 
 ## Selected public work
 
-### [Savvy Clinical](https://github.com/karthikrajpkgithub/savvy-clinical)
+### Savvy Clinical — from market research to a product concept
 
-A research-backed React prototype exploring recurring-care program launch and revenue operations. Includes competitive research, an interactive design gallery, and documented methodology.
+How could established practices turn a recurring-care idea into a defined program with clear operating economics?
 
-### [Bramwell Row — public staging](https://github.com/karthikrajpkgithub/recovery-os-staging)
+This project explores that question through competitive research, positioning, and a React website prototype. It brings together a filterable company landscape, a healthcare design gallery, template research, and a browser-based readiness brief.
 
-A prelaunch website exploring managed financial recovery operations for US businesses. This repository contains the public staging build; it is a prototype with no live intake.
+**Explore:** [Repository and setup](https://github.com/karthikrajpkgithub/savvy-clinical) · [Research and methodology](https://github.com/karthikrajpkgithub/savvy-clinical/tree/main/research)
 
-## Areas of focus
+**Status:** Concept and prototype. Pricing and economics are illustrative; customer-story slots are placeholders. This work does not demonstrate delivered clinical outcomes or realized customer revenue.
 
-Product management · Product strategy · Business operations · Venture building · Growth · AI transformation
+### Bramwell Row — defining a financial recovery service
 
-[Connect on LinkedIn](https://www.linkedin.com/in/karthikrajpk/)
+What would a managed retail-deduction recovery service need to explain before a customer could assess it?
+
+This public staging website explores the proposed service, customer journey, evidence and approval workflow, and launch-readiness requirements for US businesses. The repository contains the generated Next.js static build.
+
+**Explore:** [Repository and project context](https://github.com/karthikrajpkgithub/recovery-os-staging)
+
+**Status:** Prelaunch visual staging with no live intake. Service descriptions, pilot offers, and validation targets are proposals, not completed engagements or proven recovery results.
+
+## How I work
+
+Start with the business problem. Research the market and operating constraints. Define the product and delivery plan. Build something concrete, then make the assumptions and next decisions clear.
+
+For product, operations, or venture-building conversations, [connect with me on LinkedIn](https://www.linkedin.com/in/karthikrajpk/).
